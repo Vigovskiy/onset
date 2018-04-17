@@ -11,9 +11,7 @@
         <a class="btn navbar-btn ml-2 text-white btn-secondary">
           <i class="fa d-inline fa-lg fa-shopping-cart"></i>&nbsp;Корзина</a>
         <a class="btn navbar-btn ml-2 text-white btn-secondary">
-          <i class="fa d-inline fa-lg fa-user-circle-o"></i>&nbsp;Вход</a>
-        <a class="btn navbar-btn ml-2 text-white btn-secondary">
-          <i class="fa d-inline fa-lg fa-circle-o-notch"></i>&nbsp;Регистрация</a>
+          <i class="fa d-inline fa-lg fa-user-circle-o"></i>&nbsp;Вход/Регистрация</a>
       </div>
     </div>
   </nav>
