@@ -2,7 +2,7 @@
     <div class="container">
       <div class="row">
         <div class="p-4 col-md-3">
-          <p class="text-white" contenteditable="true">График работы Call-центра
+          <p class="text-white">График работы Call-центра
             <br>В будние дни с 8 до 21
             <br>Суббота с 9 до 20
             <br>Воскресенье с 10 до 19</p>
